@@ -1,0 +1,6 @@
+There's an implementation of the [Rollback] attribute at  http://tech.trailmax.info/2013/04/rollback-attribute-for-nunit-and-entity-framework/
+
+I haven't actually used this code though, I just came across it while doing research for the talk. I think it uses some newer features in NUnit and is far more elegant than what I use on my actual project, so start there first.
+
+If you have any problems getting that to work, email me at seth@petry-johnson.com and let me know. I'll share the version of [Rollback] that I'm actually using in "real code". It's kinda fugly though, so start with the above link first :)
+
