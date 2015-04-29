@@ -1,0 +1,3 @@
+The "ShortGuid" class that I use and reference in the talk is available at
+
+http://www.singular.co.nz/2007/12/shortguid-a-shorter-and-url-friendly-guid-in-c-sharp/
